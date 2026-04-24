@@ -1,9 +1,9 @@
 23BIS70035 - PARTH KANSAL
 
 # Learning outcomes
-- Learnt routing in ReactJS
-- Understand the concept of SPA routing and how it differs from multi-page navigation
-- Learn to implement client-side routing using React Router
+- Learnt State Management in ReactJS
+- Learnt about state and it's types
+- Learn about Local & Global State
 - Learnt about components and props
-- Define and configure routes and route paths for multiple components/pages within an SPA
-- Learnt difference between Client side and Server side routing
+- Learnt about problems without State Management
+- Learnt about ContextAPI & Redux and there difference and implementation
